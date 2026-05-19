@@ -1,6 +1,7 @@
 
+<div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Jewel&color=4f4673&label=👽+𓈒+Clowns.)
+  ![](https://komarev.com/ghpvc/?username=Moezeclown&color=be3334&label=🃏+𓈒+Clowns.)
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/bd39fcb0-2a61-4626-94b6-20fa5bd3e11c" alt="Sample Image" width="90" height="80" /> 
